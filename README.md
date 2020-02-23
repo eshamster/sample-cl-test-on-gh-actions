@@ -1,4 +1,4 @@
-
+![.github/workflows/main.yml](https://github.com/eshamster/sample-cl-test-on-gh-actions/workflows/.github/workflows/main.yml/badge.svg?event=push)
 
 # sample-cl-test-on-gh-actions
 
