@@ -1,8 +1,8 @@
 
 
-# try-cl-test-on-gh-actions
+# sample-cl-test-on-gh-actions
 
-A sample repository to try Common Lisp test on GitHub Actions.
+A sample repository to use [eshamster/try-cl-test-on-gh-actions](https://github.com/eshamster/try-cl-test-on-gh-actions) action.
 
 ## License
 
