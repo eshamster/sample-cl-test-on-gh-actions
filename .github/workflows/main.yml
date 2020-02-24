@@ -15,3 +15,5 @@ jobs:
       uses: eshamster/try-cl-test-on-gh-actions@v0.3.0
       with:
         lisp: '${{ matrix.lisp }}'
+        # Note: Only try installTargets parameter (not required)
+        installTargets: 'eshamster/ps-experiment,eshamster/cl-ps-ecs'
